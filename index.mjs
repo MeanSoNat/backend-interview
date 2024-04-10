@@ -1,7 +1,6 @@
 import express from 'express';
 import 'dotenv/config';
 import cors from 'cors';
-import { data } from './dataset.mjs';
 import DATABASE from './db/connnectdb.mjs';
 const app = express();
 const PORT = process.env.SERVER_PORT;
