@@ -10,7 +10,7 @@
 # Database Setup
 Before running the application, ensure that you have set up the database by following these:
 
- 1. Importing file **db_interview.sql** to database
+ 1. Importing file **db_interview.sql** to database [goto file](db_interview.sql)
 
 # Create files
 
