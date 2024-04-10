@@ -1,7 +1,17 @@
-﻿# Backend
-Before diving into the code, I kindly request you to run the following command:
+﻿# Backend Setup
 
-    npm install
+ 1. Prior to commencing the project, please run the command npm install
+    in the project directory. This will install all the necessary
+    dependencies required for the project.
+	   `npm install` 
+  
+ 2. Ensure that the project is created within XAMPP, as specified in the
+        guidelines.
+
+# Database Setup
+Before running the application, ensure that you have set up the database by following these:
+
+ 1. Importing file **db_interview.sql** to database
 
 # Create files
 
@@ -16,4 +26,3 @@ Before diving into the code, I kindly request you to run the following command:
 # Start project
 
     npm run dev
-
